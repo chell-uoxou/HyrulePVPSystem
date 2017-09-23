@@ -1,0 +1,9 @@
+name: HyrulePVPSystem
+main: HyrulePVPSystem\Main
+version: 0.1.0
+api: [3.0.1]
+load: STARTUP
+author: chell_uoxou
+authors: [chell_uoxou,Alair069]
+description: PVP System plugin for HyruleNetwork.
+website:
